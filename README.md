@@ -18,7 +18,7 @@ Leader of builders, slayer of blockers, and believer in clean code, clean UX, an
 | Project        | Description |
 |----------------|-------------|
 | [🔗 Interactive CV Game](https://github.com/oyasovsky) | Playable version of my resume – ask me anything! |
-| [🔗 SpaceIL Scheduler](https://github.com/oyasovsky) | Live volunteer coordination system used in hundreds of schools since 2012 |
+| [🔗 SpaceIL Scheduler](https://github.com/oyasovsky) | Live volunteer coordination system used in hundreds of schools since 2022 |
 
 ---
 
