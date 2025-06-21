@@ -33,7 +33,7 @@ Leader of builders, slayer of blockers, and believer in clean code, clean UX, an
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/oyasovsky)
+- 💼 [LinkedIn](https://www.linkedin.com/in/olga-yasovsky)
 - 🌐 [My Website](https://olga-yasovsky.com)
 - 📧 olga.yasovsky@gmail.com
 
